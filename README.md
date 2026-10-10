@@ -115,14 +115,23 @@ If I completed a similar exercise again, I would spend more time understanding t
 Overall, this activity helped me become more confident using cybersecurity tools and applying the knowledge I have gained through my university studies.
 
 # 7. Evidence of Practical Work
+The following screenshots provide evidence
+of my practical activities and progress
+in TryHackMe.
 
-The following screenshots provide evidence of my practical activities and progress in TryHackMe.
+### Screenshot 1
+![Screenshot 1](Screenshot%202026-10-10%20104916.png)
+
+### Screenshot 2
+![Screenshot 2](Screenshot%202026-10-10%20110040.png)
+
+### Screenshot 3
+![Screenshot 3](Screenshot%202026-10-10%20110121.png)
+
+### Screenshot 4
+![Screenshot 4](Screenshot%202026-10-10%20110439.png)
 
 
-Screenshot 2026-10-10 104916.png
-Screenshot 2026-10-10 110040.png
-Screenshot 2026-10-10 110121.png
-Screenshot 2026-10-10 110439.png
 
 # 8. Conclusion
 
