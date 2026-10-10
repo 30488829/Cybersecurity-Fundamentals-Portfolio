@@ -4,24 +4,23 @@ Unit: ITECH1502 Cybersecurity Fundamentals
 Platform: TryHackMe
 Practical Exercise: Offensive Security Intro
 Status: Completed
-Date: 10 October 2026
 
 1. Introduction
 
-This portfolio shows the practical cybersecurity skills I have developed through my university studies. I completed the Offensive Security Intro room on TryHackMe, which introduced me to the basic concepts of ethical hacking and website security.
+This portfolio shows the practical cybersecurity skills I have learnt through my university studies. I completed the Offensive Security Intro room on TryHackMe, which introduced me to the basic concepts of ethical hacking and website security.
 
-The exercise allowed me to explore how cybersecurity professionals identify weaknesses in websites and why protecting sensitive information is important. I completed the activities in a safe and authorised training environment.
+The exercise allowed me to explore how cybersecurity professionals identify weaknesses in websites and why is it important to protect sensitive information. I completed the activities in an authorised training environment.
 
 2. Project Objectives
 
-The main objectives of this practical exercise were to:
+The main objectives of this practical exercises were to:
 
 Understand the basic principles of offensive security.
-Learn how ethical hackers identify security weaknesses.
+Learn how security weaknesses are identified by ethical hackers.
 Practise using a Linux terminal.
-Use a directory scanning tool to identify hidden webpages.
-Explore security weaknesses in a simulated banking application.
-Understand the importance of protecting administrative pages and sensitive information.
+To identify the hidden webpages by using a directory scanning tool.
+Finding security weaknesses in a simulated banking application.
+Understanding the importance of protecting administrative pages and sensitive information.
 3. Tools and Technologies Used
 
 TryHackMe
