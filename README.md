@@ -1,17 +1,17 @@
-Cybersecurity Fundamentals Portfolio
+# Cybersecurity Fundamentals Portfolio
 
 Unit: ITECH1502 Cybersecurity Fundamentals
 Platform: TryHackMe
 Practical Exercise: Offensive Security Intro
 Status: Completed
 
-1. Introduction
+# 1. Introduction
 
 This portfolio shows the practical cybersecurity skills I have learnt through my university studies. I completed the Offensive Security Intro room on TryHackMe, which introduced me to the basic concepts of ethical hacking and website security.
 
 The exercise allowed me to explore how cybersecurity professionals identify weaknesses in websites and why is it important to protect sensitive information. I completed the activities in an authorised training environment.
 
-2. Project Objectives
+# 2. Project Objectives
 
 The main objectives of this practical exercises were to:
 
@@ -39,7 +39,7 @@ FakeBank
 
 FakeBank is a simulated banking application provided by TryHackMe. I used it to explore website security weaknesses in an authorised training environment.
 
-4. Practical Activities
+# 4. Practical Activities
 
 Task 1: Understanding Offensive Security
 
@@ -57,7 +57,7 @@ The banking website displayed account information and a negative account balance
 
 This activity helped me become familiar with the simulated environment before beginning the security testing.
 
-Task 3: Scanning for Hidden Pages
+# Task 3: Scanning for Hidden Pages
 
 I opened the Linux terminal and used the DIRB tool to scan the FakeBank website.
 
@@ -89,7 +89,7 @@ It also helped me understand why banking applications need strong authentication
 
 I successfully completed all four tasks in the TryHackMe Offensive Security Intro room.
 
-My achievements included:
+# My achievements included:
 
 Completing the introductory offensive security exercise.
 Using the Linux terminal to run a directory scan.
@@ -100,7 +100,7 @@ Earning 32 TryHackMe points.
 Receiving confirmation that the room was completed.
 These activities helped me develop a better understanding of website security and basic ethical hacking techniques.
 
-6. Personal Reflection
+# 6. Personal Reflection
 
 Before completing this exercise, I did not have much practical experience using offensive security tools. Although I had learnt about cybersecurity concepts through my studies, I was not very confident using the Linux terminal or scanning tools.
 
@@ -114,7 +114,7 @@ If I completed a similar exercise again, I would spend more time understanding t
 
 Overall, this activity helped me become more confident using cybersecurity tools and applying the knowledge I have gained through my university studies.
 
-7. Evidence of Practical Work
+# 7. Evidence of Practical Work
 
 The following screenshots provide evidence of my practical activities and progress in TryHackMe.
 
@@ -126,7 +126,7 @@ Screenshot 3: Practical Results
 
 Screenshot 4: Exercise Completion
 
-8. Conclusion
+# 8. Conclusion
 
 Completing the TryHackMe Offensive Security Intro room was a useful practical learning experience. It allowed me to apply cybersecurity concepts in a simulated environment and understand how security weaknesses can affect web applications.
 
