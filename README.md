@@ -118,13 +118,11 @@ Overall, this activity helped me become more confident using cybersecurity tools
 
 The following screenshots provide evidence of my practical activities and progress in TryHackMe.
 
-Screenshot 1: Practical Exercise
 
-Screenshot 2: Security Testing
-
-Screenshot 3: Practical Results
-
-Screenshot 4: Exercise Completion
+Screenshot 2026-10-10 104916.png
+Screenshot 2026-10-10 110040.png
+Screenshot 2026-10-10 110121.png
+Screenshot 2026-10-10 110439.png
 
 # 8. Conclusion
 
